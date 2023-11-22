@@ -4,16 +4,45 @@
   
     
     <entry>
-      <title>Markdown</title>
-      <link href="/posts/53353/"/>
-      <url>/posts/53353/</url>
+      <title>从电路看逻辑门</title>
+      <link href="/posts/29204/"/>
+      <url>/posts/29204/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
       
       <categories>
           
-          <category> 建站 </category>
+          <category> 逻辑门 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 逻辑门 </tag>
+            
+            <tag> 电路 </tag>
+            
+            <tag> 原理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Markdown学习记录</title>
+      <link href="/posts/57144/"/>
+      <url>/posts/57144/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://markdown.com.cn/basic-syntax/">Markdown</a>是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。</p><hr><h2 id="什么是Mardown"><a href="#什么是Mardown" class="headerlink" title="什么是Mardown"></a>什么是Mardown</h2><p><em><strong>Markdown</strong></em>文档可以利用少量文本实现简易的文字排版效果，让人们更专注于写作，而非排版，</p><p><em><strong>Markdown</strong></em>文档后缀名为：文章.markdown ，通常简写为： 文章.md</p><p><em><strong>Markdown</strong></em>文档的优劣势：</p><ol><li><p>相比txt文本文档，多了排版功能，随笔写的文章更美观了</p></li><li><p>Markdown文档会被解析为HTML代码运行，减少码字量，专注写作。</p></li><li><p>Markdown文档移植性较强，可以上传如<a href="https://www.csdn.net/">CSDN - 专业开发者社区</a>，<a href="https://www.zhihu.com/signin?next=/">知乎</a>，<a href="">个人博客</a>等，而不用重新在各大平台重新编辑文章。<br>   注：平台有自己的编辑器规范，上传的<em><strong>Markdown</strong></em>文档会有细微差异</p></li><li><p>数学公式支持较少，可能还需要额外下载扩展<br>关于Markdown写数学公式可参照<a href="https://zhuanlan.zhihu.com/p/441454622">MarkDown数学公式</a></p></li><li><p>Markdown文档远不如<a href="https://www.microsoft.com/zh-cn/microsoft-365/get-office-and-microsoft-365-oem-download-page">微软office</a>排版美观，毕竟术式有专攻</p></li></ol><h2 id="Markdown-语法"><a href="#Markdown-语法" class="headerlink" title="Markdown 语法"></a>Markdown 语法</h2><p>懒癌犯了，大家去看官方文档吧，简单明了，学习成本约半小时。</p><p>Markdown 官方教程(<a href="https://markdown.com.cn/">https://markdown.com.cn/</a>)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客写作 </category>
           
       </categories>
       
@@ -21,6 +50,8 @@
         <tags>
             
             <tag> Markdown </tag>
+            
+            <tag> 博客写作 </tag>
             
         </tags>
       
